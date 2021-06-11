@@ -3,7 +3,7 @@
 ## Pending
 
 ### Fixes
-
+- `n-slider` 觸摸事件支持
 - 修正 `n-button` 在 head 内部的 script 被引入造成崩溃 [#68](https://github.com/TuSimple/naive-ui/pull/68)
 - 修正 `n-spin` 动画闪烁
 - 修正 `n-menu` 缺少 `on-update-value` 和 `on-update-expanded-keys` 属性
